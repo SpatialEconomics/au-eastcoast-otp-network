@@ -1,0 +1,14 @@
+{
+  "routingDefaults": {
+    "numItineraries": 5,
+    "walkSpeed": 1.33,
+    "maxWalkDistance": 5000,
+    "maxTransfers": 8
+  },
+  "transit": {
+    "dynamicSearchWindow": {
+      "minWindow": "PT30M",
+      "maxWindow": "PT8H"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "transitServiceStart": "-P1Y",
+  "transitServiceEnd": "P3Y",
+  "maxStopToShapeSnapDistance": 150,
+  "subwayAccessTime": 2.0,
+  "transitModelTimeZone": "Australia/Sydney",
+  "localFileNamePatterns": {
+    "gtfs": "(?i)\\.zip$",
+    "osm": "(?i)\\.osm\\.pbf$"
+  },
+  "osmDefaults": {
+    "timeZone": "Australia/Sydney"
+  },
+  "maxTransferDistance": 2000
+}
